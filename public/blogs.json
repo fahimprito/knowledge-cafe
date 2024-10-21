@@ -2,7 +2,7 @@
     {
         "id": 1024,
         "cover": "https://i.ibb.co.com/HqGmX6t/2150040412.jpg",
-        "title": "The Future of Web Development",
+        "title": "The Future of Web Development: What You Need to Know",
         "author_image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36",
         "author": "John Doe",
         "posted_date": "Oct 21, 2024",
@@ -17,7 +17,7 @@
     {
         "id": 2048,
         "cover": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
-        "title": "JavaScript Frameworks to Watch",
+        "title": "JavaScript Frameworks to Watch in 2024 and Beyond",
         "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
         "author": "Jane Smith",
         "posted_date": "Oct 20, 2024",
@@ -32,7 +32,7 @@
     {
         "id": 3096,
         "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "title": "Exploring the Power of Node.js",
+        "title": "Exploring the Power of Node.js for Scalable Applications",
         "author_image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
         "author": "Alex Johnson",
         "posted_date": "Oct 19, 2024",
@@ -47,7 +47,7 @@
     {
         "id": 4102,
         "cover": "https://images.unsplash.com/photo-1519241047957-be31d7379a5d",
-        "title": "A Guide to MongoDB for Beginners",
+        "title": "A Comprehensive Guide to MongoDB for Beginners",
         "author_image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
         "author": "Emily Clark",
         "posted_date": "Oct 18, 2024",
@@ -62,7 +62,7 @@
     {
         "id": 5123,
         "cover": "https://i.ibb.co.com/PT08yQH/2150010125.jpg",
-        "title": "Building Scalable React Applications",
+        "title": "Building Scalable React Applications: Best Practices",
         "author_image": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
         "author": "Michael Lee",
         "posted_date": "Oct 17, 2024",

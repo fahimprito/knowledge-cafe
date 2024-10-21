@@ -8,7 +8,9 @@ function App() {
   const [bookmarks, setBookmarks] = useState([]);
 
   const handleAddToBookmark = blog => {
-    console.log('bookmark will add here!');
+    console.log(blog);
+    const newBookmark = [...bookmarks, blog];
+    setBookmarks(newBookmark);
 
   }
 
@@ -17,7 +19,7 @@ function App() {
       <Header></Header>
       <div className='container mx-auto grid md:grid-cols-3 gap-6'>
         <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
     </>
   )
