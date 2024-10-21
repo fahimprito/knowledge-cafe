@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1024,
+        "cover": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+        "title": "The Future of Web Development",
+        "author_image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36",
+        "author": "John Doe",
+        "posted_date": "Oct 21, 2024",
+        "posted_time": "10:00 AM",
+        "reading_time": 5,
+        "tags": [
+            "Web Development",
+            "Future Trends",
+            "Technology"
+        ]
+    },
+    {
+        "id": 2048,
+        "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
+        "title": "JavaScript Frameworks to Watch",
+        "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "author": "Jane Smith",
+        "posted_date": "Oct 20, 2024",
+        "posted_time": "2:45 PM",
+        "reading_time": 7,
+        "tags": [
+            "JavaScript",
+            "Frameworks",
+            "Frontend"
+        ]
+    },
+    {
+        "id": 3096,
+        "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "title": "Exploring the Power of Node.js",
+        "author_image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+        "author": "Alex Johnson",
+        "posted_date": "Oct 19, 2024",
+        "posted_time": "9:30 AM",
+        "reading_time": 6,
+        "tags": [
+            "Node.js",
+            "Backend",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 4102,
+        "cover": "https://images.unsplash.com/photo-1519241047957-be31d7379a5d",
+        "title": "A Guide to MongoDB for Beginners",
+        "author_image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+        "author": "Emily Clark",
+        "posted_date": "Oct 18, 2024",
+        "posted_time": "4:15 PM",
+        "reading_time": 8,
+        "tags": [
+            "MongoDB",
+            "Databases",
+            "NoSQL"
+        ]
+    },
+    {
+        "id": 5123,
+        "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "title": "Building Scalable React Applications",
+        "author_image": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+        "author": "Michael Lee",
+        "posted_date": "Oct 17, 2024",
+        "posted_time": "11:00 AM",
+        "reading_time": 10,
+        "tags": [
+            "React",
+            "Frontend",
+            "Scalability"
+        ]
+    }
+]
